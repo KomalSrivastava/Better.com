@@ -1,4 +1,4 @@
-# 🚀 **Better.com Clone**  
+# 🚀 **Better.com **  
 
 Recreating the elegant and dynamic experience of **Better.com** with a multi-page web application built using **React** and **Next.js**.  
 
