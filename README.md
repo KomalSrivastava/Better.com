@@ -37,7 +37,7 @@ Experience it live: [Deployed Link]  (https://better-com-gamma.vercel.app/)
 ## ⚙️ **Getting Started**  
 
 Set up the project on your local machine with ease:  
-
+```bash
 ## 🚀 Installation & Setup
 
 1️⃣ Clone the repository:
@@ -55,13 +55,13 @@ bash
 4️⃣ Run the development server:
 bash
  npm run dev
-
+```
  ## 🚀 **Deployment**  
 
 This project is live on **Vercel** for fast and reliable access.  
 Want to deploy your own version? Follow these steps:  
 
-```bash
+
 # Deploy to Vercel
 vercel deploy
 
